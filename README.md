@@ -43,5 +43,14 @@ Nim 语言精选
 
 </details>
 
+## 性能测试
+* [timeit](https://github.com/xflywind/timeit) -测试程序运行时间。[MIT]
+* [golden](https://github.com/disruptek/golden) -一个基准测试工具，用于测量和记录任何可执行文件的运行时间。[MIT]
+
 ## 深度学习
 * [Arraymancer](https://github.com/mratsim/Arraymancer) -高性能深度学习库。[Apache-2.0]
+* [Nimtorch](https://github.com/fragcolor-xyz/nimtorch) -pytorch的Nim前端。[MIT]
+
+## 资源
+### 博客
+* [Nim 早茶](https://tea.nim-cn.com) -Nim 学习博客。
