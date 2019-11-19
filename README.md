@@ -54,3 +54,7 @@ Nim 语言精选
 ## 资源
 ### 博客
 * [Nim 早茶](https://tea.nim-cn.com) -Nim 学习博客。
+### 社区
+* QQ 群号：624680081
+### 网站
+* [Nim 中文社区](https://nim-cn.com) -Nim 中文社区。
