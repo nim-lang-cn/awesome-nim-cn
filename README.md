@@ -53,7 +53,7 @@ Nim 语言精选
 
 ## 游戏开发
 * [nimgame2](https://github.com/Vladar4/nimgame2) -2D 游戏引擎。
-* [godot-nim](https://github.com/pragmagic/godot-nim) -Godot 2D/3D游戏引擎的 Nim 绑定，基于 GDNative。
+* [godot-nim](https://github.com/pragmagic/godot-nim) -Godot 2D/3D游戏引擎的 Nim 绑定，基于 GDNative。[MIT]
 
 
 ## 资源
