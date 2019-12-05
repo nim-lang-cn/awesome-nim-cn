@@ -49,7 +49,12 @@ Nim 语言精选
 
 ## 深度学习
 * [Arraymancer](https://github.com/mratsim/Arraymancer) -高性能深度学习库。[Apache-2.0]
-* [Nimtorch](https://github.com/fragcolor-xyz/nimtorch) -pytorch的Nim前端。[MIT]
+* [Nimtorch](https://github.com/fragcolor-xyz/nimtorch) -pytorch 的 Nim 前端。[MIT]
+
+## 游戏开发
+* [nimgame2](https://github.com/Vladar4/nimgame2) -2D 游戏引擎。
+* [godot-nim](https://github.com/pragmagic/godot-nim) -Godot 2D/3D游戏引擎的 Nim 绑定，基于 GDNative。
+
 
 ## 资源
 ### 博客
